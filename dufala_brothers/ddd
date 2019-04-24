@@ -1,0 +1,13 @@
+<div class="">
+  <form class="" action="index.html" method="post">
+    <div class="form-group">
+      <input type="text" name="first" value="" placeholder="Firstname">
+      <input type="text" name="last" value="" placeholder="Lastname">
+      <input type="text" name="email" value="" placeholder="E-mail">
+      <input type="text" name="username" value="" placeholder="Username">
+      <input type="password" name="password" value="" placeholder="Password">
+      <button type="submit" name="submit">Sign Up</button>
+    </div>
+  </form>
+    <a href="login.php">Log In</a>
+</div>
